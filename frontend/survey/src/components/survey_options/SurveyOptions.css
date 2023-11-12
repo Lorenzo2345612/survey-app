@@ -1,0 +1,24 @@
+.surveyOptionContainer {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+
+.bottonContainer {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
+.surveyOptionBtn {
+    position: relative;
+    border-color: gray;
+    border-radius: 5px;
+    border-width: 2px;
+    background-color: bisque;
+    text-decoration: underline;
+    padding: 0 3px;
+}
